@@ -25,7 +25,7 @@ export default function Login({ navigation, route }) {
             {/* Link para o GitHub */}
             <TouchableOpacity onPress={() => { Linking.openURL('https://github.com/SesiSenai1DE'); }}>
                 <Text style={styles.link}
-                >Developed by 2DE
+                >Developed by Ana Casa Grandi
                 </Text>
             </TouchableOpacity>
         </View>
